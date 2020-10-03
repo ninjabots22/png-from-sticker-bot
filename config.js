@@ -1,5 +1,5 @@
 // Telegram API token here
-exports.api_token = "<API TOKEN>"
+exports.api_token = "1241164429:AAHxVZyysrHM8L9sE1p4-svlabRPxod38zA"
 
 // -----------------------
 
